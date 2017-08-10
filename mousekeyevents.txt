@@ -1,0 +1,7 @@
+https://github.com/gmamaladze/globalmousekeyhook#usage
+https://www.nuget.org/packages/MouseKeyHook/5.4.0
+
+how to install nuget-packages: http://docs.nuget.org/consume/package-manager-console
+
+1.) elmah installieren siehe dritter Link (Tools = Extras-Registerkarte in Visual Studio) - PowerShell in echt not needed
+2.) in der Console von nuget Install-Package MouseKeyHook eingeben und fertig - keine Downloads von GitHub oder sonst wo nötig, nur im Programm

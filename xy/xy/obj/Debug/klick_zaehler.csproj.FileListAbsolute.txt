@@ -1,0 +1,13 @@
+C:\Users\Matteo\Desktop\yx\xy\xy\bin\Debug\xy.exe.config
+C:\Users\Matteo\Desktop\yx\xy\xy\bin\Debug\xy.exe
+C:\Users\Matteo\Desktop\yx\xy\xy\bin\Debug\xy.pdb
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\xy.Form_anzahl_mausklicks.resources
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\Form1.resources
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\xy.Properties.Resources.resources
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\klick_zaehler.csproj.GenerateResource.Cache
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\xy.exe
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\xy.pdb
+C:\Users\Matteo\Desktop\yx\xy\xy\bin\Debug\Elmah.dll
+C:\Users\Matteo\Desktop\yx\xy\xy\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\xy.Form_impressum.resources
+C:\Users\Matteo\Desktop\yx\xy\xy\obj\Debug\klick_zaehler.csprojResolveAssemblyReference.cache
